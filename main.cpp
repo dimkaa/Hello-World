@@ -10,5 +10,5 @@ int main()
     cout << "sum:"<< a+b<<endl;
     cout << "dif:"<< a-b<<endl;
     cout << "a*b:"<< a*b<< endl;
-    cout << "a/b:"<< a/b<<endl;
+    cout << "a/b:"<< a/b<< endl;
 }
