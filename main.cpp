@@ -6,7 +6,9 @@ int main()
 {
     cin>> a;
     cin>>b;
-    cout << "sum:"<< a+b <<endl;
+
+    cout << "sum:"<< a+b<<endl;
     cout << "dif:"<< a-b<<endl;
     cout << "a*b:"<< a*b<< endl;
+    cout << "a/b:"<< a/b<<endl;
 }
